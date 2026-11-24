@@ -1,0 +1,29 @@
+{
+  "album": "samples",
+  "photos": [
+    {
+      "file": "cat.jpg",
+      "name": "Cat"
+    },
+    {
+      "file": "coffee.jpg",
+      "name": "Coffee"
+    },
+    {
+      "file": "rocket.jpg",
+      "name": "Rocket launch"
+    },
+    {
+      "file": "deep-field.jpg",
+      "name": "Deep field"
+    },
+    {
+      "file": "tower.jpg",
+      "name": "Tower"
+    },
+    {
+      "file": "flower.jpg",
+      "name": "Dahlia"
+    }
+  ]
+}
